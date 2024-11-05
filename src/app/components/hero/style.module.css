@@ -1,0 +1,9 @@
+.hero-top {
+    display: flex;
+    width: 1116px;
+    height: 49px;
+}
+
+.hero-main {
+    display: flex;
+}

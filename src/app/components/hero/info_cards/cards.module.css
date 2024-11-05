@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 536px;
+    height: 322px;
+}
+
+.cards {
+    background-color: #FFFFFF;
+    border: 1px solid #EFF0F6;
+    border-radius: 20px;
+    width: 170px;
+    height: 151px;
+    margin: 2px;
+    padding: 15px;
+}
+
+.cards h3 {
+    font-size: 14px;
+    font-weight: 500;
+    color: #000000B2;
+}
+
+.cards p {
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000;
+}

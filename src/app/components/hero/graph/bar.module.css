@@ -1,0 +1,28 @@
+.chart-container {
+    background-color: #FFFFFF;
+    width: 556px;
+    height: 322px;
+    border-radius: 20px;
+    border: 1px solid #EFF0F6;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.8px solid #E4E5E7;
+}
+
+.flex h5 {
+    font-size: 14px;
+    font-weight: 500;
+    color: #4D4D4D;
+}
+
+.drop-down {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.drop-down h5 {}

@@ -1,0 +1,14 @@
+.drop {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #FFFFFF; 
+    font-size: 16px;
+    font-weight: 500;
+    border: 1px solid #EFF0F6;
+    border-radius: 20px; 
+    padding: 8px 16px; 
+    cursor: pointer;
+    width: 365.42px;
+    height: 49px;
+}

@@ -1,0 +1,18 @@
+.main-display {
+    display: flex;
+}
+
+main {
+    background-color: #F9F9F9;
+    overflow-x: hidden;
+    padding: 10px;
+}
+
+.topic {
+    display: flex;
+    gap: 2px;
+}
+
+.leader {
+    display: flex;
+}

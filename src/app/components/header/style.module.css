@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.header h3 {
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000;
+}
+
+.flex {
+    display: flex;
+}
+
+
+.flex p {
+    color: #4D4D4D;
+    font-size: 14px;
+    font-weight: 600;
+}
